@@ -1,0 +1,40 @@
+{
+  "name": "111_project",
+  "version": "1.0.0",
+  "description": "111學年度資管系專題/指導老師:曾守正",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Roy-xie/111_project.git"
+  },
+  "keywords": [
+    "111_project"
+  ],
+  "author": "Roy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Roy-xie/111_project/issues"
+  },
+  "homepage": "https://github.com/Roy-xie/111_project#readme",
+  "dependencies": {
+    "@ansur/leaflet-pulse-icon": "^0.1.1",
+    "bootstrap": "^5.2.3",
+    "bootstrap-select": "^1.13.18",
+    "expres": "^0.0.5",
+    "jquery": "^3.6.4",
+    "jssha": "^3.3.0",
+    "leaflet": "^1.9.3",
+    "leaflet-ant-path": "^1.3.0",
+    "leaflet-groupedlayercontrol": "^0.6.1",
+    "leaflet-routing-machine": "^3.2.12",
+    "leaflet-sidebar-v2": "^3.2.3",
+    "leaflet.awesome-markers": "^2.0.5",
+    "leaflet.fullscreen": "^2.4.0",
+    "leaflet.markercluster": "^1.5.3",
+    "leaflet.styledlayercontrol": "^1.0.0",
+    "simplebar": "^6.2.1"
+  }
+}
